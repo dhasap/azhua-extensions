@@ -2,11 +2,11 @@
   {
     "name": "Anichin",
     "pkg": "com.azhua.ext.anichin",
-    "versionCode": 3,
-    "versionName": "2.0.1",
+    "versionCode": 4,
+    "versionName": "2.0.2",
     "lang": "id",
     "icon": "https://raw.githubusercontent.com/dhasap/azhua-extensions/main/icons/anichin.png",
-    "apkUrl": "https://github.com/dhasap/azhua-extensions/releases/download/v2.0.0/ext-anichin-v2.0.1.apk",
-    "description": "Ekstensi scraping untuk anichin.co.id - Nonton Donghua subtitle Indonesia (Package Visibility Fixed)"
+    "apkUrl": "https://github.com/dhasap/azhua-extensions/releases/download/v2.0.0/ext-anichin-v2.0.2.apk",
+    "description": "Ekstensi scraping Anichin - ProGuard dimatikan, scraping stabil!"
   }
 ]
