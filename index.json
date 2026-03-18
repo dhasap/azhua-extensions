@@ -2,11 +2,11 @@
   {
     "name": "Anichin",
     "pkg": "com.azhua.ext.anichin",
-    "versionCode": 14,
-    "versionName": "2.0.12",
+    "versionCode": 15,
+    "versionName": "2.0.13",
     "lang": "id",
     "icon": "https://raw.githubusercontent.com/dhasap/azhua-extensions/main/icons/anichin.png",
-    "apkUrl": "https://github.com/dhasap/azhua-extensions/releases/download/v2.0.12/ext-anichin-v2.0.12.apk",
-    "description": "Ekstensi Anichin v2.0.12 - 🔥 Jurus Penyucian Total: 6 Filter ketat, buang tombol medsos!"
+    "apkUrl": "https://github.com/dhasap/azhua-extensions/releases/download/ext-anichin-v2.0.13/ext-anichin-v2.0.13.apk",
+    "description": "Ekstensi Anichin v2.0.13 - 🔬 DOM-Verified Parsing: Selector berbasis fakta HTML, anti-kontaminasi!"
   }
 ]
