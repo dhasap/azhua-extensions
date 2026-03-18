@@ -2,11 +2,11 @@
   {
     "name": "Anichin",
     "pkg": "com.azhua.ext.anichin",
-    "versionCode": 11,
-    "versionName": "2.0.9",
+    "versionCode": 12,
+    "versionName": "2.0.10",
     "lang": "id",
     "icon": "https://raw.githubusercontent.com/dhasap/azhua-extensions/main/icons/anichin.png",
-    "apkUrl": "https://github.com/dhasap/azhua-extensions/releases/download/v2.0.9/ext-anichin-v2.0.9.apk",
-    "description": "Ekstensi Anichin v2.0.9 - 🌪️ Jurus Sapu Jagat: Ambil SEMUA episode dari SEMUA tab!"
+    "apkUrl": "https://github.com/dhasap/azhua-extensions/releases/download/v2.0.10/ext-anichin-v2.0.10.apk",
+    "description": "Ekstensi Anichin v2.0.10 - 🔍 DOM Investigation Fix: Semua 259 episode Perfect World terdeteksi!"
   }
 ]
