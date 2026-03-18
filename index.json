@@ -2,11 +2,11 @@
   {
     "name": "Anichin",
     "pkg": "com.azhua.ext.anichin",
-    "versionCode": 9,
-    "versionName": "2.0.7",
+    "versionCode": 10,
+    "versionName": "2.0.8",
     "lang": "id",
     "icon": "https://raw.githubusercontent.com/dhasap/azhua-extensions/main/icons/anichin.png",
-    "apkUrl": "https://github.com/dhasap/azhua-extensions/releases/download/v2.0.7/ext-anichin-v2.0.7.apk",
-    "description": "Ekstensi Anichin v2.0.7 - 2 Jurus Pembongkar Segel: Kurung Pencarian & Tembus Enkripsi Video!"
+    "apkUrl": "https://github.com/dhasap/azhua-extensions/releases/download/v2.0.8/ext-anichin-v2.0.8.apk",
+    "description": "Ekstensi Anichin v2.0.8 - FIX: Kurungan Longgar, Episode Count Kembali Normal!"
   }
 ]
