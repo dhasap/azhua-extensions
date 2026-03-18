@@ -2,11 +2,11 @@
   {
     "name": "Anichin",
     "pkg": "com.azhua.ext.anichin",
-    "versionCode": 7,
-    "versionName": "2.0.5",
+    "versionCode": 8,
+    "versionName": "2.0.6",
     "lang": "id",
     "icon": "https://raw.githubusercontent.com/dhasap/azhua-extensions/main/icons/anichin.png",
-    "apkUrl": "https://github.com/dhasap/azhua-extensions/releases/download/v2.0.5/ext-anichin-v2.0.5.apk",
-    "description": "Ekstensi Anichin v2.0.5 - Migrasi ke anichin.moe!"
+    "apkUrl": "https://github.com/dhasap/azhua-extensions/releases/download/v2.0.6/ext-anichin-v2.0.6.apk",
+    "description": "Ekstensi Anichin v2.0.6 - 4 Jurus Pemurnian: Clean Titles, No Duplicates, Genres & Real Video URLs!"
   }
 ]
