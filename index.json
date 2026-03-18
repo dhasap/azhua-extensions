@@ -2,11 +2,11 @@
   {
     "name": "Anichin",
     "pkg": "com.azhua.ext.anichin",
-    "versionCode": 18,
-    "versionName": "2.0.16",
+    "versionCode": 19,
+    "versionName": "2.0.17",
     "lang": "id",
     "icon": "https://raw.githubusercontent.com/dhasap/azhua-extensions/main/icons/anichin.png",
-    "apkUrl": "https://github.com/dhasap/azhua-extensions/releases/download/v2.0.16/ext-anichin-v2.0.16.apk",
-    "description": "Ekstensi Anichin v2.0.16 - 🛡️ Logika Primitif: Hanya 2 filter, tanpa manipulasi String berbahaya!"
+    "apkUrl": "https://github.com/dhasap/azhua-extensions/releases/download/v2.0.17/ext-anichin-v2.0.17.apk",
+    "description": "Ekstensi Anichin v2.0.17 - 🎯 Isolasi Kontainer: Episode tepat (PW=259, RI=132, SS=215)!"
   }
 ]
